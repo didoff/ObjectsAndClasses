@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomizeWords", "Randomize
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigFactorial", "BigFactorial\BigFactorial.csproj", "{514AE809-571E-4DBD-AC7D-0B805D67073E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBnPoints", "DistanceBnPoints\DistanceBnPoints.csproj", "{27705AA1-B67A-431E-A36D-A44AC75F7504}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{514AE809-571E-4DBD-AC7D-0B805D67073E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{514AE809-571E-4DBD-AC7D-0B805D67073E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{514AE809-571E-4DBD-AC7D-0B805D67073E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27705AA1-B67A-431E-A36D-A44AC75F7504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27705AA1-B67A-431E-A36D-A44AC75F7504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27705AA1-B67A-431E-A36D-A44AC75F7504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27705AA1-B67A-431E-A36D-A44AC75F7504}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
